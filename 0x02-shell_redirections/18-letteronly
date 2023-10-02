@@ -1,1 +1,2 @@
+#!/bin/bash
  '^[a-z]' /etc/ssh/sshd_confige
